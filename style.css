@@ -51,6 +51,9 @@ body{
     color: #666666;
 }   
 
+.content-div{
+ 	background-color: #green;   
+}
 .footer{
     background-color: #35424a;
     color: #ffffff;
