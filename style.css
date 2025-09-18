@@ -53,6 +53,7 @@ body{
 
 .content-div{
  	background-color: #green;   
+    display: inlne-block;
 }
 .footer{
     background-color: #35424a;
